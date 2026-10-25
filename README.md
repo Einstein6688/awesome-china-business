@@ -10,6 +10,7 @@
 - [Podcasts](#podcasts)
 - [Databases & Research](#databases--research)
 - [Market Entry](#market-entry)
+- [Grants & Incentives](#grants--incentives)
 - [Robotics & Hardware](#robotics--hardware)
 - [News & Media](#news--media)
 - [Communities](#communities)
@@ -60,6 +61,11 @@
 - [China Briefing (KPMG)](https://home.kpmg/cn) - Market entry and regulatory reports from Big Four.
 
 ---
+
+## Grants & Incentives
+
+- [Shanghai Subsidy Radar — free 2026 checklist](https://shituapp.com/dot/en/checklist.html) - English checklist of Shanghai grants, subsidies and incentives for foreign-invested SMEs, with deadlines and links to the official Chinese notices. The same team publishes a daily 3-minute English brief.
+- [Shanghai Government English Portal](https://english.shanghai.gov.cn/) - Official English guides to doing business in Shanghai, including investment, licensing and funding information.
 
 ## Robotics & Hardware
 
